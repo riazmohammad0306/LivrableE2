@@ -9,4 +9,4 @@ Le livrable final consiste en une application TKinter permettant de réaliser ce
 des élèves de collèges dans le but de les sensibiliser à l'IA et ses enjeux dans le cadre du Projet Arc-En-Ciel (sensibilisation de 75%
 des élèves de collège du département des Alpes-Maritimes pour 2023) porté par la Maison de l'Intelligence Artificielle. 
 
-L'application TKinter est réalisée sous Python, les librairies nécessaires sont dans requirements.txt et peuvent être installées dans un environnement virtuel.
+L'application TKinter est réalisée sous Python, les librairies nécessaires sont dans requirements.txt et peuvent être installées dans un environnement virtuel. Le modèle d'IA est nommée model_4.h5 mais est trop volumineux, il est possible d'utiliser n'importe quel modèle de classification. 
